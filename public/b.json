@@ -1,0 +1,499 @@
+[
+    {
+        "iden": "544-81-5591",
+        "name": "Anna-Luise Aumann",
+        "type": "int",
+        "values": []
+    },
+    {
+        "iden": "218-55-5499",
+        "name": "Martine Klapp",
+        "type": "<EventHandlerRequest, Promise<any>>(handler: EventHandler<EventHandlerRequest, Promise<any>> | EventHandlerObject<EventHandlerRequest, Promise<...>>)",
+        "values": [
+            "verkaufen",
+            "Arzt",
+            "Zug",
+            "gestern",
+            "nächste"
+        ]
+    },
+    {
+        "iden": "513-66-7783",
+        "name": "Dr. Niels Drubin B.A.",
+        "type": "<EventHandlerRequest, Promise<any>>(handler: EventHandler<EventHandlerRequest, Promise<any>> | EventHandlerObject<EventHandlerRequest, Promise<...>>)",
+        "values": []
+    },
+    {
+        "iden": "921-96-4144",
+        "name": "Solveig Eckbauer",
+        "type": "string",
+        "values": [
+            "Fahrrad",
+            "will"
+        ]
+    },
+    {
+        "iden": "367-68-2656",
+        "name": "Ismail Heydrich",
+        "type": "string",
+        "values": [
+            "Klasse",
+            "acht",
+            "fangen",
+            "Flasche",
+            "aber",
+            "sich",
+            "Mädchen",
+            "aber",
+            "Stelle"
+        ]
+    },
+    {
+        "iden": "831-76-7905",
+        "name": "Patrizia Ebert B.Eng.",
+        "type": "<EventHandlerRequest, Promise<any>>(handler: EventHandler<EventHandlerRequest, Promise<any>> | EventHandlerObject<EventHandlerRequest, Promise<...>>)",
+        "values": [
+            "springen",
+            "schnell",
+            "krank",
+            "bei",
+            "Flasche",
+            "über",
+            "genau",
+            "hängen",
+            "Land",
+            "singen"
+        ]
+    },
+    {
+        "iden": "074-17-3669",
+        "name": "Univ.Prof. Hedwig Beier",
+        "type": "string",
+        "values": [
+            "so",
+            "etwas",
+            "wieder",
+            "Winter",
+            "beide",
+            "jeder",
+            "ohne"
+        ]
+    },
+    {
+        "iden": "338-44-5744",
+        "name": "Jörgen Haase-Kreusel",
+        "type": "<EventHandlerRequest, Promise<any>>(handler: EventHandler<EventHandlerRequest, Promise<any>> | EventHandlerObject<EventHandlerRequest, Promise<...>>)",
+        "values": []
+    },
+    {
+        "iden": "390-21-7162",
+        "name": "Antonietta Rudolph",
+        "type": "<EventHandlerRequest, Promise<any>>(handler: EventHandler<EventHandlerRequest, Promise<any>> | EventHandlerObject<EventHandlerRequest, Promise<...>>)",
+        "values": [
+            "damit",
+            "kochen",
+            "Vater",
+            "mein",
+            "Klasse",
+            "dem",
+            "halbe",
+            "Apfel",
+            "Schiff",
+            "wenig"
+        ]
+    },
+    {
+        "iden": "321-67-6017",
+        "name": "Denise Preiß",
+        "type": "<EventHandlerRequest, Promise<any>>(handler: EventHandler<EventHandlerRequest, Promise<any>> | EventHandlerObject<EventHandlerRequest, Promise<...>>)",
+        "values": [
+            "überall",
+            "Arzt",
+            "Winter",
+            "heute",
+            "werfen",
+            "wo",
+            "schaffen",
+            "fehlen"
+        ]
+    },
+    {
+        "iden": "318-87-9438",
+        "name": "Maya Hermighausen",
+        "type": "<EventHandlerRequest, Promise<any>>(handler: EventHandler<EventHandlerRequest, Promise<any>> | EventHandlerObject<EventHandlerRequest, Promise<...>>)",
+        "values": [
+            "kein",
+            "nur",
+            "weinen",
+            "verstehen",
+            "draußen",
+            "Musik"
+        ]
+    },
+    {
+        "iden": "320-09-6516",
+        "name": "Asta Fliegner",
+        "type": "int",
+        "values": [
+            "deshalb",
+            "der",
+            "Woche",
+            "Dorf",
+            "Leute",
+            "Kopf",
+            "Erde",
+            "dir",
+            "lustig"
+        ]
+    },
+    {
+        "iden": "827-58-1787",
+        "name": "Mechtild Schlosser",
+        "type": "<EventHandlerRequest, Promise<any>>(handler: EventHandler<EventHandlerRequest, Promise<any>> | EventHandlerObject<EventHandlerRequest, Promise<...>>)",
+        "values": [
+            "nass"
+        ]
+    },
+    {
+        "iden": "015-12-7081",
+        "name": "Ing. Sina Schleich B.Eng.",
+        "type": "<EventHandlerRequest, Promise<any>>(handler: EventHandler<EventHandlerRequest, Promise<any>> | EventHandlerObject<EventHandlerRequest, Promise<...>>)",
+        "values": [
+            "Gott",
+            "Bild"
+        ]
+    },
+    {
+        "iden": "733-48-9707",
+        "name": "Liselotte Hölzenbecher B.Sc.",
+        "type": "int",
+        "values": [
+            "weil",
+            "gar",
+            "waschen",
+            "nämlich",
+            "fährt",
+            "Fahrrad",
+            "gelb",
+            "hoch",
+            "neu"
+        ]
+    },
+    {
+        "iden": "209-92-6560",
+        "name": "Heinz-Dieter Weitzel",
+        "type": "int",
+        "values": []
+    },
+    {
+        "iden": "702-83-6974",
+        "name": "Theodor Schmiedecke B.Sc.",
+        "type": "string",
+        "values": [
+            "Sohn",
+            "essen",
+            "vielleicht",
+            "Tier",
+            "Fahrrad",
+            "ich",
+            "schlimm",
+            "gewinnen",
+            "zu",
+            "unter"
+        ]
+    },
+    {
+        "iden": "805-64-2080",
+        "name": "Corina Schomber MBA.",
+        "type": "int",
+        "values": [
+            "Wasser",
+            "Weihnachten",
+            "grün",
+            "gehen",
+            "heraus",
+            "hart",
+            "Wasser",
+            "gewinnen",
+            "schicken"
+        ]
+    },
+    {
+        "iden": "723-51-7990",
+        "name": "Prof. Dagobert Stiebitz B.Eng.",
+        "type": "string",
+        "values": [
+            "Herr",
+            "wollen",
+            "deshalb",
+            "mehr",
+            "beim",
+            "bin",
+            "leben"
+        ]
+    },
+    {
+        "iden": "569-01-9295",
+        "name": "Juliana Fröhlich",
+        "type": "<EventHandlerRequest, Promise<any>>(handler: EventHandler<EventHandlerRequest, Promise<any>> | EventHandlerObject<EventHandlerRequest, Promise<...>>)",
+        "values": [
+            "endlich",
+            "etwas",
+            "wohl",
+            "geben",
+            "neun",
+            "Bauer",
+            "er",
+            "bekommen",
+            "nein",
+            "verkaufen"
+        ]
+    },
+    {
+        "iden": "509-71-5734",
+        "name": "Ing. Aleksander Stroh",
+        "type": "string",
+        "values": []
+    },
+    {
+        "iden": "378-99-9627",
+        "name": "Anne Freudenberger",
+        "type": "string",
+        "values": [
+            "lange"
+        ]
+    },
+    {
+        "iden": "918-55-6116",
+        "name": "Prof. Abbas Davids B.Sc.",
+        "type": "int",
+        "values": [
+            "reiten",
+            "Tante",
+            "Tag",
+            "Weg"
+        ]
+    },
+    {
+        "iden": "021-44-1141",
+        "name": "Gotthold Schmidtke B.Sc.",
+        "type": "int",
+        "values": [
+            "wenn",
+            "warten",
+            "glücklich",
+            "dumm",
+            "vergessen",
+            "Schiff",
+            "Auto"
+        ]
+    },
+    {
+        "iden": "157-13-3098",
+        "name": "Nurten Kensy",
+        "type": "string",
+        "values": []
+    },
+    {
+        "iden": "193-62-2528",
+        "name": "Norman Kühnert",
+        "type": "int",
+        "values": []
+    },
+    {
+        "iden": "037-92-4844",
+        "name": "Helfried Jopich",
+        "type": "string",
+        "values": [
+            "nämlich",
+            "Jahr",
+            "schwarz",
+            "Seite",
+            "Leute",
+            "denn",
+            "kam"
+        ]
+    },
+    {
+        "iden": "660-85-6247",
+        "name": "Dr. Lotti Pieper",
+        "type": "int",
+        "values": [
+            "schwer",
+            "schreien",
+            "fiel",
+            "Oma",
+            "Maus"
+        ]
+    },
+    {
+        "iden": "506-29-8211",
+        "name": "Sergei Thies",
+        "type": "<EventHandlerRequest, Promise<any>>(handler: EventHandler<EventHandlerRequest, Promise<any>> | EventHandlerObject<EventHandlerRequest, Promise<...>>)",
+        "values": [
+            "Wagen",
+            "Eis",
+            "denken"
+        ]
+    },
+    {
+        "iden": "970-25-6931",
+        "name": "Romuald Pieper",
+        "type": "<EventHandlerRequest, Promise<any>>(handler: EventHandler<EventHandlerRequest, Promise<any>> | EventHandlerObject<EventHandlerRequest, Promise<...>>)",
+        "values": [
+            "kein",
+            "dunkel",
+            "Weg",
+            "drei",
+            "Wald"
+        ]
+    },
+    {
+        "iden": "785-29-6472",
+        "name": "Univ.Prof. Ottilie Gröttner",
+        "type": "<EventHandlerRequest, Promise<any>>(handler: EventHandler<EventHandlerRequest, Promise<any>> | EventHandlerObject<EventHandlerRequest, Promise<...>>)",
+        "values": [
+            "sollen",
+            "will",
+            "Freund",
+            "springen",
+            "Tante",
+            "darin",
+            "Familie"
+        ]
+    },
+    {
+        "iden": "727-05-3089",
+        "name": "Eckhart Fechner-Hettner",
+        "type": "int",
+        "values": [
+            "Brot",
+            "schaffen",
+            "nah",
+            "Bruder",
+            "Abend",
+            "Tür",
+            "her",
+            "dort"
+        ]
+    },
+    {
+        "iden": "485-91-5488",
+        "name": "Univ.Prof. Heimo Putz",
+        "type": "<EventHandlerRequest, Promise<any>>(handler: EventHandler<EventHandlerRequest, Promise<any>> | EventHandlerObject<EventHandlerRequest, Promise<...>>)",
+        "values": [
+            "nur",
+            "lesen",
+            "warum",
+            "schlimm",
+            "neu",
+            "Leute",
+            "den"
+        ]
+    },
+    {
+        "iden": "807-75-2156",
+        "name": "Heribert Weitzel",
+        "type": "int",
+        "values": [
+            "lustig",
+            "dick",
+            "vorbei",
+            "Land",
+            "sehen",
+            "schlagen",
+            "spät"
+        ]
+    },
+    {
+        "iden": "187-38-1893",
+        "name": "Ana Hornich",
+        "type": "int",
+        "values": [
+            "traurig",
+            "wer",
+            "Sonntag",
+            "Beispiel",
+            "gewinnen",
+            "tot",
+            "Familie",
+            "Dorf",
+            "der",
+            "nass"
+        ]
+    },
+    {
+        "iden": "583-68-7838",
+        "name": "Branko Weimer",
+        "type": "<EventHandlerRequest, Promise<any>>(handler: EventHandler<EventHandlerRequest, Promise<any>> | EventHandlerObject<EventHandlerRequest, Promise<...>>)",
+        "values": [
+            "gegen",
+            "gewinnen"
+        ]
+    },
+    {
+        "iden": "840-69-3719",
+        "name": "Thorsten Riehl-Wulff",
+        "type": "int",
+        "values": [
+            "weg",
+            "gestern",
+            "schenken",
+            "baden",
+            "Pferd",
+            "Onkel",
+            "neben",
+            "lustig"
+        ]
+    },
+    {
+        "iden": "097-24-9795",
+        "name": "Gordon Neureuther B.Eng.",
+        "type": "int",
+        "values": [
+            "besser",
+            "nämlich",
+            "rechnen",
+            "zusammen",
+            "Seite",
+            "hart",
+            "Katze",
+            "Opa",
+            "Gesicht"
+        ]
+    },
+    {
+        "iden": "901-18-4783",
+        "name": "Maja Ehlert",
+        "type": "int",
+        "values": [
+            "jung",
+            "Schüler",
+            "groß",
+            "gegen",
+            "wahr",
+            "ob",
+            "geben",
+            "Buch"
+        ]
+    },
+    {
+        "iden": "729-96-3214",
+        "name": "Gudrun Conradi",
+        "type": "string",
+        "values": [
+            "arbeiten",
+            "besser",
+            "hier"
+        ]
+    },
+    {
+        "iden": "161-68-6828",
+        "name": "Prof. Diethelm Hecker",
+        "type": "string",
+        "values": [
+            "sofort",
+            "Schule"
+        ]
+    }
+]
